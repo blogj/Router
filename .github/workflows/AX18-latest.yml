@@ -62,7 +62,7 @@ jobs:
       uses: stupidloud/cachewrtbuild@main
       with:
         ccache: 'true'
-        mixkey: 'AX18'
+        mixkey: 'AX18-latest'
         prefix: ${{ github.workspace }}/openwrt
 
     - name: Load custom feeds
