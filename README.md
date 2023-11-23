@@ -9,10 +9,3 @@ https://github.com/sdf8057/packages
 https://github.com/sdf8057/luci
 
 
-##### Newifi D2
-
-https://github.com/coolsnowwolf/lede
-
-https://github.com/coolsnowwolf/packages
-
-https://github.com/coolsnowwolf/luci
